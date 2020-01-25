@@ -29,3 +29,6 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# I don't want to share my secrets
+/config/secrets.yml
